@@ -50,6 +50,7 @@ namespace SaleManagement
             frmIns_Services afrmIns_Services = new frmIns_Services(this);
             afrmIns_Services.ShowDialog();
         }
+
         private void frmIns_BookingHalls_Services_Load(object sender, EventArgs e)
         {
             Reload();
@@ -65,8 +66,7 @@ namespace SaleManagement
                 BookingHallsEN aBookingHallsEN = new BookingHallsEN();
                 BookingHalls aBookingHalls = aBookingHallsBO.Select_ByID(IDBookingHall);
                 aBookingHallsEN.ID = aBookingHalls.ID;
-                // Thành sửa 12/06/2015
-                aBookingHallsEN.HallSku = aHallsBO.Select_ByCodeHall(aBookingHalls.CodeHall, 1).Sku;
+                aBookingHallsEN.SkuHall = aHallsBO.Select_ByCodeHall(aBookingHalls.CodeHall, 1).Sku;
                 aListBookingHall.Add(aBookingHallsEN);
 
                 dgvHalls.DataSource = aListBookingHall;
@@ -174,8 +174,7 @@ namespace SaleManagement
             }
             foreach (BookingHalls_Services items in this.aListRemove)
             {
-                // Thành sửa 12/06/2015
-                aBookingHalls_ServicesBO.Delete(items.ID);
+                aBookingHalls_ServicesBO.Delete(items.IDService, items.IDBookingHall);
             }
 
             if (afrmTsk_PaymentHall != null)
