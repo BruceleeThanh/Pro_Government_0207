@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BookingTypes>
+  <BookingType Code="WEBSITE" ID="1">Website</BookingType>
+  <BookingType Code="DIEN THOAI" ID="2">Điện thoại</BookingType>
+  <BookingType Code="TRUC TIEP" ID="3">Trực tiếp</BookingType>
+  <BookingType Code="CONG VAN" ID="4">Công văn</BookingType>
+</BookingTypes>

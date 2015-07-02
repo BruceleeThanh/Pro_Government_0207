@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Emails>
+  <SenderMail ID="linhnhat15@gmail.com" Password="lingting9"></SenderMail>  
+  <ReceiverMail ID="linhnhat15@gmail.com" Password=""></ReceiverMail>
+  <ReceiverMail ID="linhnhat16@gmail.com" Password=""></ReceiverMail>
+</Emails>

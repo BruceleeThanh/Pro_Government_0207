@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TrainingTypes>
+  <TrainingType Code="CHINH QUY" ID="1">Chính quy</TrainingType>
+  <TrainingType Code="TAI CHUC" ID="2">Tại chức</TrainingType>
+  <TrainingType Code="VAN BANG 2" ID="3">Văn bằng 2</TrainingType>
+  <TrainingType Code="LIEN THONG" ID="4">Liên thông</TrainingType>
+  <TrainingType Code="CHUNG CHI" ID="5">Chứng chỉ</TrainingType>
+  <TrainingType Code="TU XA" ID="6">Từ xa</TrainingType>
+  
+</TrainingTypes>

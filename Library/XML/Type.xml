@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ListType>
+  <AllowancesType>
+    <Type Code="TIEN MAT" ID="1">Tiền mặt</Type>
+    <Type Code="% LUONG CO BAN" ID="2">% Lương cơ bản</Type>
+  </AllowancesType>
+  <ContractsType>
+    <Type Code="HE SO NHA NUOC" ID="1">Hệ số nhà nước</Type>
+    <Type Code="SALARYNET" ID="2">SalaryNet</Type>
+    <Type Code="SALARYCROSS" ID="3">SalaryCross</Type>
+  </ContractsType>
+
+</ListType>

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<countries>
+  <country Code="AF" ID="4">Afghanistan</country>
+  <country Code="AL" ID="8">Albania</country>
+  <country Code="DZ" ID="12">Algeria</country>
+  <country Code="AS" ID="16">American Samoa</country>
+  <country Code="AD" ID="20">Andorra</country>
+  <country Code="AO" ID="24">Angola</country>
+  <country Code="AI" ID="660">Anguilla</country>
+  <country Code="AQ" ID="10">Antarctica</country>
+  <country Code="AG" ID="28">Antigua And Barbuda</country>
+  <country Code="AR" ID="32">Argentina</country>
+  <country Code="AM" ID="51">Armenia</country>
+  <country Code="AW" ID="533">Aruba</country>
+  <country Code="AU" ID="36">Australia</country>
+  <country Code="AT" ID="40">Austria</country>
+  <country Code="AZ" ID="31">Azerbaijan</country>
+  <country Code="BS" ID="44">Bahamas</country>
+  <country Code="BH" ID="48">Bahrain</country>
+  <country Code="BD" ID="50">Bangladesh</country>
+  <country Code="BB" ID="52">Barbados</country>
+  <country Code="BY" ID="112">Belarus</country>
+  <country Code="BE" ID="56">Belgium</country>
+  <country Code="BZ" ID="84">Belize</country>
+  <country Code="BJ" ID="204">Benin</country>
+  <country Code="BM" ID="60">Bermuda</country>
+  <country Code="BT" ID="64">Bhutan</country>
+  <country Code="BO" ID="68">Bolivia</country>
+  <country Code="BA" ID="70">Bosnia And Herzegovina</country>
+  <country Code="BW" ID="72">Botswana</country>
+  <country Code="BV" ID="74">Bouvet Island</country>
+  <country Code="BR" ID="76">Brazil</country>
+  <country Code="IO" ID="86">British Indian Ocean Territory</country>
+  <country Code="BN" ID="96">Brunei Darussalam</country>
+  <country Code="BG" ID="100">Bulgaria</country>
+  <country Code="BF" ID="854">Burkina Faso</country>
+  <country Code="BI" ID="108">Burundi</country>
+  <country Code="KH" ID="116">Cambodia</country>
+  <country Code="CM" ID="120">Cameroon</country>
+  <country Code="CA" ID="124">Canada</country>
+  <country Code="CV" ID="132">Cape Verde</country>
+  <country Code="KY" ID="136">Cayman Islands</country>
+  <country Code="CF" ID="140">Central African Republic</country>
+  <country Code="TD" ID="148">Chad</country>
+  <country Code="CL" ID="152">Chile</country>
+  <country Code="CN" ID="156">China</country>
+  <country Code="CX" ID="162">Christmas Island</country>
+  <country Code="CC" ID="166">Cocos (Keeling) Islands</country>
+  <country Code="CO" ID="170">Colombia</country>
+  <country Code="KM" ID="174">Comoros</country>
+  <country Code="CG" ID="178">Congo</country>
+  <country Code="CK" ID="184">Cook Islands</country>
+  <country Code="CR" ID="188">Costa Rica</country>
+  <country Code="CI" ID="384">Cote D'Ivoire</country>
+  <country Code="HR" ID="191">Croatia (Local Name: Hrvatska)</country>
+  <country Code="CU" ID="192">Cuba</country>
+  <country Code="CY" ID="196">Cyprus</country>
+  <country Code="CZ" ID="203">Czech Republic</country>
+  <country Code="DK" ID="208">Denmark</country>
+  <country Code="DJ" ID="262">Djibouti</country>
+  <country Code="DM" ID="212">Dominica</country>
+  <country Code="DO" ID="214">Dominican Republic</country>
+  <country Code="EC" ID="218">Ecuador</country>
+  <country Code="EG" ID="818">Egypt</country>
+  <country Code="SV" ID="222">El Salvador</country>
+  <country Code="GQ" ID="226">Equatorial Guinea</country>
+  <country Code="ER" ID="232">Eritrea</country>
+  <country Code="EE" ID="233">Estonia</country>
+  <country Code="ET" ID="210">Ethiopia</country>
+  <country Code="FK" ID="238">Falkland Islands (Malvinas)</country>
+  <country Code="FO" ID="234">Faroe Islands</country>
+  <country Code="FJ" ID="242">Fiji</country>
+  <country Code="FI" ID="246">Finland</country>
+  <country Code="FR" ID="250">France</country>
+  <country Code="FX" ID="249">France, Metropolitan</country>
+  <country Code="GF" ID="254">French Guiana</country>
+  <country Code="PF" ID="258">French Polynesia</country>
+  <country Code="TF" ID="260">French Southern Territories</country>
+  <country Code="GA" ID="266">Gabon</country>
+  <country Code="GM" ID="270">Gambia</country>
+  <country Code="GE" ID="268">Georgia</country>
+  <country Code="DE" ID="276">Germany</country>
+  <country Code="GH" ID="288">Ghana</country>
+  <country Code="GI" ID="292">Gibraltar</country>
+  <country Code="GR" ID="300">Greece</country>
+  <country Code="GL" ID="304">Greenland</country>
+  <country Code="GD" ID="308">Grenada</country>
+  <country Code="GP" ID="312">Guadeloupe</country>
+  <country Code="GU" ID="316">Guam</country>
+  <country Code="GT" ID="320">Guatemala</country>
+  <country Code="GN" ID="324">Guinea</country>
+  <country Code="GW" ID="624">Guinea-Bissau</country>
+  <country Code="GY" ID="328">Guyana</country>
+  <country Code="HT" ID="332">Haiti</country>
+  <country Code="HM" ID="334">Heard Island n Mcdonald Islands</country>
+  <country Code="HN" ID="340">Honduras</country>
+  <country Code="HK" ID="344">Hong Kong</country>
+  <country Code="HU" ID="348">Hungary</country>
+  <country Code="IS" ID="352">Iceland</country>
+  <country Code="IN" ID="356">India</country>
+  <country Code="ID" ID="360">Indonesia</country>
+  <country Code="IR" ID="364">Iran, Islamic Republic Of</country>
+  <country Code="IQ" ID="368">Iraq</country>
+  <country Code="IE" ID="372">Ireland</country>
+  <country Code="IL" ID="376">Israel</country>
+  <country Code="IT" ID="380">Italy</country>
+  <country Code="JM" ID="388">Jamaica</country>
+  <country Code="JP" ID="392">Japan</country>
+  <country Code="JO" ID="400">Jordan</country>
+  <country Code="KZ" ID="398">Kazakhstan</country>
+  <country Code="KE" ID="404">Kenya</country>
+  <country Code="KI" ID="296">Kiribati</country>
+  <country Code="KP" ID="408">Korea, Democratic People'S Republic Of</country>
+  <country Code="KR" ID="410">Korea, Republic Of</country>
+  <country Code="KW" ID="414">Kuwait</country>
+  <country Code="KG" ID="417">Kyrgyzstan</country>
+  <country Code="LA" ID="418">Lao People'S Democratic Republic</country>
+  <country Code="LV" ID="428">Latvia</country>
+  <country Code="LB" ID="422">Lebanon</country>
+  <country Code="LS" ID="426">Lesotho</country>
+  <country Code="LR" ID="430">Liberia</country>
+  <country Code="LY" ID="434">Libyan Arab Jamahiriya</country>
+  <country Code="LI" ID="438">Liechtenstein</country>
+  <country Code="LT" ID="440">Lithuania</country>
+  <country Code="LU" ID="442">Luxembourg</country>
+  <country Code="MO" ID="446">Macau</country>
+  <country Code="MK" ID="807">Macedonia, The Former Yugoslav Republic Of</country>
+  <country Code="MG" ID="450">Madagascar</country>
+  <country Code="MW" ID="454">Malawi</country>
+  <country Code="MY" ID="458">Malaysia</country>
+  <country Code="MV" ID="462">Maldives</country>
+  <country Code="ML" ID="466">Mali</country>
+  <country Code="MT" ID="470">Malta</country>
+  <country Code="MH" ID="584">Marshall Islands</country>
+  <country Code="MQ" ID="474">Martinique</country>
+  <country Code="MR" ID="478">Mauritania</country>
+  <country Code="MU" ID="480">Mauritius</country>
+  <country Code="YT" ID="175">Mayotte</country>
+  <country Code="MX" ID="484">Mexico</country>
+  <country Code="FM" ID="583">Micronesia, Federated States Of</country>
+  <country Code="MD" ID="498">Moldova, Republic Of</country>
+  <country Code="MC" ID="492">Monaco</country>
+  <country Code="MN" ID="496">Mongolia</country>
+  <country Code="MS" ID="500">Montserrat</country>
+  <country Code="MA" ID="504">Morocco</country>
+  <country Code="MZ" ID="508">Mozambique</country>
+  <country Code="MM" ID="104">Myanmar</country>
+  <country Code="NA" ID="516">Namibia</country>
+  <country Code="NR" ID="520">Nauru</country>
+  <country Code="NP" ID="524">Nepal</country>
+  <country Code="NL" ID="528">Netherlands</country>
+  <country Code="AN" ID="530">Netherlands Antilles</country>
+  <country Code="NC" ID="540">New Caledonia</country>
+  <country Code="NZ" ID="554">New Zealand</country>
+  <country Code="NI" ID="558">Nicaragua</country>
+  <country Code="NE" ID="562">Niger</country>
+  <country Code="NG" ID="566">Nigeria</country>
+  <country Code="NU" ID="570">Niue</country>
+  <country Code="NF" ID="574">Norfolk Island</country>
+  <country Code="MP" ID="580">Northern Mariana Islands</country>
+  <country Code="NO" ID="578">Norway</country>
+  <country Code="OM" ID="512">Oman</country>
+  <country Code="PK" ID="586">Pakistan</country>
+  <country Code="PW" ID="585">Palau</country>
+  <country Code="PA" ID="591">Panama</country>
+  <country Code="PG" ID="598">Papua New Guinea</country>
+  <country Code="PY" ID="600">Paraguay</country>
+  <country Code="PE" ID="604">Peru</country>
+  <country Code="PH" ID="608">Philippines</country>
+  <country Code="PN" ID="612">Pitcairn</country>
+  <country Code="PL" ID="616">Poland</country>
+  <country Code="PT" ID="620">Portugal</country>
+  <country Code="PR" ID="630">Puerto Rico</country>
+  <country Code="QA" ID="634">Qatar</country>
+  <country Code="RE" ID="638">Reunion</country>
+  <country Code="RO" ID="642">Romania</country>
+  <country Code="RU" ID="643">Russian Federation</country>
+  <country Code="RW" ID="646">Rwanda</country>
+  <country Code="SH" ID="654">Saint Helena</country>
+  <country Code="KN" ID="659">Saint Kitts And Nevis</country>
+  <country Code="LC" ID="662">Saint Lucia</country>
+  <country Code="PM" ID="666">Saint Pierre And Miquelon</country>
+  <country Code="VC" ID="670">Saint Vincent And The Grenadines</country>
+  <country Code="WS" ID="882">Samoa</country>
+  <country Code="SM" ID="674">San Marino</country>
+  <country Code="ST" ID="678">Sao Tome And Principe</country>
+  <country Code="SA" ID="682">Saudi Arabia</country>
+  <country Code="SN" ID="686">Senegal</country>
+  <country Code="SC" ID="690">Seychelles</country>
+  <country Code="SL" ID="694">Sierra Leone</country>
+  <country Code="SG" ID="702">Singapore</country>
+  <country Code="SK" ID="703">Slovakia (Slovak Republic)</country>
+  <country Code="SI" ID="705">Slovenia</country>
+  <country Code="SB" ID="90">Solomon Islands</country>
+  <country Code="SO" ID="706">Somalia</country>
+  <country Code="ZA" ID="710">South Africa</country>
+  <country Code="ES" ID="724">Spain</country>
+  <country Code="LK" ID="144">Sri Lanka</country>
+  <country Code="SD" ID="736">Sudan</country>
+  <country Code="SR" ID="740">Suriname</country>
+  <country Code="SJ" ID="744">Svalbard And Jan Mayen Islands</country>
+  <country Code="SZ" ID="748">Swaziland</country>
+  <country Code="SE" ID="752">Sweden</country>
+  <country Code="CH" ID="756">Switzerland</country>
+  <country Code="SY" ID="760">Syrian Arab Republic</country>
+  <country Code="TW" ID="158">Taiwan, Province Of China</country>
+  <country Code="TJ" ID="762">Tajikistan</country>
+  <country Code="TZ" ID="834">Tanzania, United Republic Of</country>
+  <country Code="TH" ID="764">Thailand</country>
+  <country Code="TG" ID="768">Togo</country>
+  <country Code="TK" ID="772">Tokelau</country>
+  <country Code="TO" ID="776">Tonga</country>
+  <country Code="TT" ID="780">Trinidad And Tobago</country>
+  <country Code="TN" ID="788">Tunisia</country>
+  <country Code="TR" ID="792">Turkey</country>
+  <country Code="TM" ID="795">Turkmenistan</country>
+  <country Code="TC" ID="796">Turks And Caicos Islands</country>
+  <country Code="TV" ID="798">Tuvalu</country>
+  <country Code="UG" ID="800">Uganda</country>
+  <country Code="UA" ID="804">Ukraine</country>
+  <country Code="AE" ID="784">United Arab Emirates</country>
+  <country Code="GB" ID="826">United Kingdom</country>
+  <country Code="US" ID="840">United States</country>
+  <country Code="UM" ID="581">United States Minor Outlying Islands</country>
+  <country Code="UY" ID="858">Uruguay</country>
+  <country Code="UZ" ID="860">Uzbekistan</country>
+  <country Code="VU" ID="548">Vanuatu</country>
+  <country Code="VA" ID="336">Vatican City State (Holy See)</country>
+  <country Code="VE" ID="862">Venezuela</country>
+  <country Code="VN" ID="704">Viet Nam</country>
+  <country Code="VG" ID="92">Virgin Islands (British)</country>
+  <country Code="VI" ID="850">Virgin Islands (U.S.)</country>
+  <country Code="WF" ID="876">Wallis And Futuna Islands</country>
+  <country Code="EH" ID="732">Western Sahara</country>
+  <country Code="YE" ID="887">Yemen</country>
+  <country Code="YU" ID="891">Yugoslavia</country>
+  <country Code="ZR" ID="180">Zaire</country>
+  <country Code="ZM" ID="894">Zambia</country>
+  <country Code="ZW" ID="716">Zimbabwe</country>
+</countries>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PayMethods>
+	<PayMethod Code="TIEN MAT" ID="1">Tiền mặt</PayMethod>
+	<PayMethod Code="SEC" ID="2">Séc</PayMethod>
+	<PayMethod Code="CHUYEN KHOAN" ID="3">Chuyển khoản</PayMethod>
+	<PayMethod Code="BAO CAP" ID="4">Bao cấp</PayMethod>
+</PayMethods>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SystemUsers_Certificates_Level>
+  <Level Code="GIOI" ID="1">Giỏi</Level>
+  <Level Code="KHA" ID="2">Khá</Level>
+  <Level Code="TRUNG BINH" ID="3">Trung bình</Level>
+</SystemUsers_Certificates_Level>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Levels>
+  <Level Code="THU TUONG" ID="1">Thủ tướng</Level>
+  <Level Code="PHO THU TUONG" ID="2">Phó thủ tướng</Level>
+  <Level Code="CHU TICH NUOC" ID="3">Chủ tịch nước</Level>
+  <Level Code="PHO CHU TICH NUOC" ID="4">Phó chủ tịch nước</Level>
+
+  <Level Code="CHU TICH QUOC HOI" ID="5">Chủ tịch quốc hội</Level>
+  <Level Code="PHO CHU TICH QUOC HOI" ID="6">Phó chủ tịch quốc hội</Level>
+  <Level Code="BO TRUONG BO NGOAI GIAO" ID="7">Bộ trưởng bộ ngoại giao</Level>
+  <Level Code="BO TRUONG KHAC" ID="8">Bộ trưởng khác</Level>
+
+  <Level Code="THU TRUONG BO NGOAI GIAO" ID="9">Thứ trưởng bộ ngoại giao</Level>
+  <Level Code="THU TRUONG KHAC" ID="10">Thứ trưởng khác</Level>
+  <Level Code="CAP VU" ID="11">Cấp vụ</Level>
+  <Level Code="CAC CAP KHAC" ID="12">Các cấp khác</Level>
+  <Level Code="TIEC LE NHA KHACH" ID="13">Tiệc lẻ nhà khách</Level>
+  <Level Code="TIEC LE BEN NGOAI" ID="14">Tiệc lẻ bên ngoài</Level>
+  <Level Code="TRONG" ID="15"></Level>
+</Levels>

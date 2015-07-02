@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContractTypes>
+  <ContractType Code="THOI VU" ID="1">Thời vụ</ContractType>
+  <ContractType Code="THU VIEC NKCP" ID="2">Thử việc NKCP</ContractType>
+  <ContractType Code="THU VIEC BO" ID="3">Thử việc Bộ</ContractType>
+  <ContractType Code="HOP DONG NGAN HAN NKCP" ID="4">Hợp đồng ngắn hạn NKCP</ContractType>
+  <ContractType Code="HOP DONG NGAN HAN BO" ID="5">Hợp đồng ngắn hạn Bộ</ContractType>
+  <ContractType Code="HOP DONG DAI HAN NKCP" ID="6">Hợp đồng dài hạn NKCP</ContractType>
+  <ContractType Code="HOP DONG DAI HAN BO" ID="7">Hợp đồng dài hạn Bộ</ContractType>
+  <ContractType Code="VO THOI HAN NKCP" ID="8">Vô thời hạn NKCP</ContractType>
+  <ContractType Code="VO THOI HAN BO" ID="9">Vô thời hạn Bộ</ContractType>
+  <ContractType Code="BIEN CHE" ID="10">Biên chế</ContractType>
+</ContractTypes>

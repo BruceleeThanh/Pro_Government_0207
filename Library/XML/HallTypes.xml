@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HallTypes>
+  <HallType Code="STANDAR" ID="1">STANDAR</HallType>
+  <HallType Code="VIP" ID="2">VIP</HallType>
+</HallTypes>

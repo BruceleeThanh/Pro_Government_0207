@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ListStatus>
+  <BookingHStatus>
+    <Status Code="VERIFY" ID="1">Chưa xác thực</Status>
+    <Status Code="CHECKED" ID="2">Đã xác thực</Status>
+    <Status Code="WAITING KITCHEN CONFIRM" ID="3">Chờ bếp accept</Status>
+    <Status Code="KITCHEN CONFIRM" ID="4">Bếp đã accept</Status>
+
+    <Status Code="PENDING" ID="5">Tạm hoãn</Status>
+    <Status Code="BEP DA SAN SANG" ID="6">Bếp đã sẵn sàng</Status>
+    <Status Code="DONE" ID="7">Đã check out và chưa thanh toán</Status>
+    <Status Code="FINISH" ID="8">Đã thanh toán xong</Status>
+  </BookingHStatus>
+
+  <BookingHallStatus>
+
+    <Status Code="VERIFY" ID="1">Chưa xác thực</Status>
+    <Status Code="CHECKED" ID="2">Đã xác thực</Status>
+    <Status Code="WAITING KITCHEN CONFIRM" ID="3">Chờ bếp accept</Status>
+    <Status Code="KITCHEN CONFIRM" ID="4">Bếp đã accept</Status>
+
+    <Status Code="PENDING" ID="5">Tạm hoãn</Status>
+    <Status Code="BEP DA SAN SANG" ID="6">Bếp đã sẵn sàng</Status>
+    <Status Code="DONE" ID="7">Đã check out và chưa thanh toán</Status>
+    <Status Code="FINISH" ID="8">Đã thanh toán xong</Status>
+
+  </BookingHallStatus>
+
+
+  <StatusPays>
+    <Status Code="CHUA THANH TOAN" ID="1">Chưa thanh toán</Status>
+    <Status Code="TAM UNG" ID="2">Tạm ứng</Status>
+    <Status Code="DA THANH TOAN" ID="3">Đã thanh toán</Status>
+    <Status Code="TAT CA" ID="4">Tất cả</Status>
+  </StatusPays>
+
+  <CustomerStatus>
+    <Status Code="1" ID="1">1</Status>
+    <Status Code="2" ID="2">2</Status>
+    <Status Code="3" ID="3">3</Status>
+    <Status Code="4" ID="4">4</Status>
+  </CustomerStatus>
+
+</ListStatus>

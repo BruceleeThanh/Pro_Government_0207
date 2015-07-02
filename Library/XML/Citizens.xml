@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Citizens>
+  <Citizen Code="HA NOI" ID="1">Hà Nội</Citizen>
+  <Citizen Code="TINH KHAC" ID="2">Tỉnh khác</Citizen>
+  <Citizen Code="VIET KIEU" ID="3">Việt kiều</Citizen>
+  <Citizen Code="NUOC NGOAI" ID="4">Nước ngoài</Citizen>
+</Citizens>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RelationTypes>
+  <RelationType Code="ONG" ID="1">Ông</RelationType>
+  <RelationType Code="BA" ID="2">Bà</RelationType>
+  <RelationType Code="BO" ID="3">Bố</RelationType>
+  <RelationType Code="ME" ID="4">Mẹ</RelationType>
+  <RelationType Code="ANH" ID="5">Anh</RelationType>
+  <RelationType Code="CHI" ID="6">Chị</RelationType>
+  <RelationType Code="EM" ID="7">Em</RelationType>
+  <RelationType Code="VO" ID="8">Vợ</RelationType>
+  <RelationType Code="CHONG" ID="9">Chồng</RelationType>
+  <RelationType Code="CON" ID="10">Con</RelationType>
+</RelationTypes>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CertificateTypes>
+  <CertificateType Code="PHO GIAO SU" ID="1">Phó giáo sư</CertificateType>
+  <CertificateType Code="TIEN SI" ID="2">Tiến sĩ</CertificateType>
+  <CertificateType Code="THAC SI" ID="3">Thạc sĩ</CertificateType>
+  <CertificateType Code="DAI HOC" ID="4">Đại học</CertificateType>
+  <CertificateType Code="CAO DANG" ID="5">Cao đẳng</CertificateType>
+  <CertificateType Code="TRUNG CAP" ID="6">Trung cấp</CertificateType>
+  <CertificateType Code="TRUNG HOC" ID="7">Trung học</CertificateType>
+  <CertificateType Code="CHUNG CHI NGOAI NGU" ID="8">Chứng chỉ ngoại ngữ</CertificateType>
+  <CertificateType Code="CHUNG CHI NGHE" ID="9">Chứng chỉ nghề</CertificateType>
+</CertificateTypes>

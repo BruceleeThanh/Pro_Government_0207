@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RoomTypes>
+  <RoomType Code="SUITE" ID="1">SUITE</RoomType>
+  <RoomType Code="SUPERIOR" ID="2">SUPERIOR</RoomType>
+  <RoomType Code="STANDARD" ID="3">STANDARD</RoomType>
+</RoomTypes>
